@@ -1,6 +1,5 @@
-Theme: jekyll-theme-cayman
 # Welcome to Mackenzie's GitHub Page
-This is an experiment for my Information Systems class. 
+## This is an experiment for my Information Systems class. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
